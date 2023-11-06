@@ -1,0 +1,72 @@
+{
+    "candidatos": [
+        {
+            "numero": 10,
+            "nome": "Candidato A",
+            "votos": 2
+        },
+        {
+            "numero": 20,
+            "nome": "Candidato B",
+            "votos": 0
+        },
+        {
+            "numero": 30,
+            "nome": "Candidato C",
+            "votos": 0
+        },
+        {
+            "numero": 100,
+            "nome": "AAA",
+            "votos": 0
+        },
+        {
+            "numero": 300,
+            "nome": "Caninde",
+            "votos": 0
+        },
+        {
+            "numero": 64,
+            "nome": "tiringa",
+            "votos": 3
+        }
+    ],
+    "eleitores": [
+        {
+            "nome": "Eleitor A",
+            "usuario": "eleitorA",
+            "senha": "nova_senha",
+            "votou": "False"
+        },
+        {
+            "nome": "Eleitor B",
+            "usuario": "eleitorB",
+            "senha": "123",
+            "votou": "False"
+        },
+        {
+            "nome": "Eleitor C",
+            "usuario": "eleitorC",
+            "senha": "123",
+            "votou": "False"
+        },
+        {
+            "nome": "eleitorx",
+            "usuario": "123",
+            "senha": "123",
+            "votou": "True"
+        },
+        {
+            "nome": "guh",
+            "usuario": "guh",
+            "senha": "guh",
+            "votou": "False"
+        }
+    ],
+    "avisos": [
+        {
+            "titulo": "Aviso 1",
+            "texto": "Texto do aviso 1"
+        }
+    ]
+}

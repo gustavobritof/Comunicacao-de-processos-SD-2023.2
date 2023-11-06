@@ -1,0 +1,84 @@
+ tamanhoNomePessoa: 4
+ nomePessoa: Joao
+ cpf: 1.23456789E8
+ idade: 20
+
+------------------
+
+ tamanhoNomePessoa: 5
+ nomePessoa: Maria
+ cpf: 9.87654321E8
+ idade: 30
+
+------------------
+
+ tamanhoNomePessoa: 4
+ nomePessoa: Jose
+ cpf: 1.23456789E8
+ idade: 40
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Joao
+ cpf: 1.23456789E8
+ idade: 20
+
+------------------
+
+ tamanhoNomePessoa: 5.0
+ nomePessoa: Maria
+ cpf: 9.87654321E8
+ idade: 30
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Jose
+ cpf: 1.23456789E8
+ idade: 40
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Joao
+ cpf: 1.23456789E8
+ idade: 20
+
+------------------
+
+ tamanhoNomePessoa: 5.0
+ nomePessoa: Maria
+ cpf: 9.87654321E8
+ idade: 30
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Jose
+ cpf: 1.23456789E8
+ idade: 40
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Joao
+ cpf: 1.23456789E8
+ idade: 20
+
+------------------
+
+ tamanhoNomePessoa: 5.0
+ nomePessoa: Maria
+ cpf: 9.87654321E8
+ idade: 30
+
+------------------
+
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Jose
+ cpf: 1.23456789E8
+ idade: 40
+
+------------------
+
